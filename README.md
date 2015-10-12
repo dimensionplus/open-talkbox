@@ -1,6 +1,8 @@
 open-TalkBox
 ==========
 
+![screenshot](https://raw.github.com/dimensionplus/open-talkbox/master/screenshot.png "screenshot")
+
 Talk Box 是一個在國際音樂表演上經常使用的聲音操作裝置，最早原形出現於Pete Drake 於1964年的Forever專輯，作為吉他的效果。後來也使用在不同的樂器上，例如Stevie Wonder便運用於電子琴。原理為將發聲器發出之聲音直接送入人的嘴裡，藉由嘴型及舌頭等肌肉操作此聲音而產生「說話」效果。
 此份文件為超維度互動於2015年設計開發的Talk Box，首次發表於台灣國立科學教育館原型工廠工作坊。
 
